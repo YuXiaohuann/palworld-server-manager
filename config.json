@@ -1,0 +1,14 @@
+{
+  "serverConfigList": [
+    {
+      "serverHost": "127.0.0.1",
+      "serverPort": 25575,
+      "serverPassword": "abcd1237",
+      "checkCycle": 10000,
+      "steamIdWhitelist": [
+        "765611993XXXXXXXX",
+        "765611993XXXXXXXX"
+      ]
+    }
+  ]
+}
